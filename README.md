@@ -117,7 +117,7 @@ ecommerce-analysis-python/
 
 ## 🔗 Connect with Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/abhishek-bhardwaj-820b33343)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhishekbhardwaj28)
 - 📧 abhishekbhardwaj9617@gmail.com
 - 🌐 [Portfolio Website]
 
