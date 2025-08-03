@@ -76,16 +76,16 @@ ecommerce-analysis-python/
 
 ## 📊 Sample Visualizations
 
-![Monthly Revenue](.outputs/plots/monthly_revenue.png)  
+![Monthly Revenue](output/plots/monthly_revenue.png)  
 *Monthly revenue trend over time*
 
-![Top Products](outputs/plots/top_products.png)  
+![Top Products](output/plots/top_products.png)  
 *Top 10 selling products by Price*
 
-![Top Products By Sellers](outputs/plots/top_products_by_seller.png)  
+![Top Products By Sellers](output/plots/top_products_by_seller.png)  
 *Top 5 selling products by Each Seller*
 
-![Review Ratings](outputs/plots/review_ratings.png)  
+![Review Ratings](output/plots/review_ratings.png)  
 *Top 10 Maximun & Minimum Rated categories*
 
 
